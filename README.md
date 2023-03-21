@@ -1,0 +1,2 @@
+# depthai-resources
+depthai-resources
